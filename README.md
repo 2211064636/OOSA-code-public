@@ -1,4 +1,2 @@
 # Public code for the OOSA course.
-
-
-# OOSA-code-public
+Oriented object spatial algorithm from the University of Edinburgh
